@@ -10,4 +10,4 @@
 | Ethernet       | Realtek RTL8111              |
 | OS Disk        | WDC Blue                     |                                                                                                                                         
 
-**macOS version**: 14.0 \
+**macOS version**: 14.0 
