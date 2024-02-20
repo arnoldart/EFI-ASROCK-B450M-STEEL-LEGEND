@@ -1,3 +1,5 @@
+![Image](https://github.com/arnoldart/EFI-ASROCK-B450M-STEEL-LEGEND/blob/main/Image.png)
+
 ## Spesifikasi Saya
 
 | **Componenet** | **Model**                    |
